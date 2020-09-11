@@ -1,9 +1,6 @@
-.bdr{
-    height:50px;
-    background-color: blueviolet;
+.container{
+    border:8px solid black;
 }
-
-.bdr1{
-    height:50px;
-    background-color: crimson;
+.row{
+    border:5px solid pink;
 }
